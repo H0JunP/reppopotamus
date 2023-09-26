@@ -123,3 +123,24 @@
   ```sh
   $ mkdir (directory name)
   ```
+---
+## Help Commands
+### **help**
+  ![IMG_64DE9EAEA0EE-1](https://github.com/H0JunP/reppopotamus/assets/134226638/9a46d8ca-6a61-4ba1-8001-f14d719e4851)
+  
+  ```sh
+  $ help (command name)
+  ```
+---
+### **man**
+  ![IMG_9A9C65CA29D8-1](https://github.com/H0JunP/reppopotamus/assets/134226638/b85df4a8-45c6-4071-ac6a-e0071c07666a)
+
+  ```sh
+  $ man (command name)
+  ```
+---
+## Exiting Terminal
+### **exit**
+  ```sh
+  $ exit
+  ```
